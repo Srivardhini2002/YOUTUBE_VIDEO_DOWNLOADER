@@ -13,7 +13,7 @@ root.state("zoomed")
 root.title("YouTube Video Downloader")
 root.config(bg="white")
 
-icon=PhotoImage(file = 'tube1.png')
+icon=PhotoImage(file = 'tube.png')
 root.iconphoto(False,icon)
 
 url=StringVar()
