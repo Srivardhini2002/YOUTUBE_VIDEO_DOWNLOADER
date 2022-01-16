@@ -6,4 +6,4 @@
  
  You can paste the Youtube URL on the textfield and choose your required resolution and Click DOWNLOAD.
  
- ![Sample Output](relative/path/to/OUTPUT_Screenshot.png?raw=true "Title")
+ ![Sample Output](D:/Youtube_Video_Downloader/YOUTUBE_Video_DOWNLOADER/OUTPUT_Screenshot.png)
