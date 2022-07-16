@@ -6,4 +6,6 @@
  
  You can paste the Youtube URL on the textfield and choose your required resolution and Click DOWNLOAD.
  
+ ![Outlook](OUTPUT_Screenshot.png)
+ 
  
